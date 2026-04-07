@@ -97,9 +97,9 @@ crime-dashboard/
 
 
 ```
-<img width="1016" height="753" alt="image" src="https://github.com/user-attachments/assets/b77c7e47-cd8d-4139-9a08-f7622b61be92" />
+<img width="2060" height="1512" alt="image" src="https://github.com/user-attachments/assets/ae2881c0-209e-499a-8508-2555a2386fe6" />
 
-<img width="1017" height="704" alt="image" src="https://github.com/user-attachments/assets/a6894b95-98de-4791-8291-de602924c24e" />
+<img width="2082" height="1506" alt="image" src="https://github.com/user-attachments/assets/0387062f-dca4-4632-a19d-450efefd8e14" />
 
 ```
 
